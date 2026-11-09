@@ -1,0 +1,222 @@
+[
+  {
+    "id": "chair",
+    "category": "furniture",
+    "path": "assets/furniture/chair.glb",
+    "dimensions_m": {
+      "x": 0.48,
+      "y": 1.02,
+      "z": 0.485
+    },
+    "bytes": 16192
+  },
+  {
+    "id": "stool",
+    "category": "furniture",
+    "path": "assets/furniture/stool.glb",
+    "dimensions_m": {
+      "x": 0.41,
+      "y": 0.52,
+      "z": 0.41
+    },
+    "bytes": 14692
+  },
+  {
+    "id": "dining_table",
+    "category": "furniture",
+    "path": "assets/furniture/dining_table.glb",
+    "dimensions_m": {
+      "x": 1.5,
+      "y": 0.79,
+      "z": 0.9
+    },
+    "bytes": 14520
+  },
+  {
+    "id": "coffee_table",
+    "category": "furniture",
+    "path": "assets/furniture/coffee_table.glb",
+    "dimensions_m": {
+      "x": 1.0,
+      "y": 0.46,
+      "z": 0.55
+    },
+    "bytes": 14696
+  },
+  {
+    "id": "desk",
+    "category": "furniture",
+    "path": "assets/furniture/desk.glb",
+    "dimensions_m": {
+      "x": 1.3,
+      "y": 0.79,
+      "z": 0.65
+    },
+    "bytes": 17708
+  },
+  {
+    "id": "sofa",
+    "category": "furniture",
+    "path": "assets/furniture/sofa.glb",
+    "dimensions_m": {
+      "x": 1.98,
+      "y": 1.0,
+      "z": 0.85
+    },
+    "bytes": 22620
+  },
+  {
+    "id": "armchair",
+    "category": "furniture",
+    "path": "assets/furniture/armchair.glb",
+    "dimensions_m": {
+      "x": 1.03,
+      "y": 1.0,
+      "z": 0.85
+    },
+    "bytes": 21132
+  },
+  {
+    "id": "bookshelf",
+    "category": "furniture",
+    "path": "assets/furniture/bookshelf.glb",
+    "dimensions_m": {
+      "x": 1.28,
+      "y": 1.83,
+      "z": 0.4
+    },
+    "bytes": 43424
+  },
+  {
+    "id": "cabinet",
+    "category": "furniture",
+    "path": "assets/furniture/cabinet.glb",
+    "dimensions_m": {
+      "x": 1.28,
+      "y": 1.08,
+      "z": 0.48
+    },
+    "bytes": 17424
+  },
+  {
+    "id": "wardrobe",
+    "category": "furniture",
+    "path": "assets/furniture/wardrobe.glb",
+    "dimensions_m": {
+      "x": 1.28,
+      "y": 1.83,
+      "z": 0.48
+    },
+    "bytes": 17436
+  },
+  {
+    "id": "bed",
+    "category": "furniture",
+    "path": "assets/furniture/bed.glb",
+    "dimensions_m": {
+      "x": 1.45,
+      "y": 1.1,
+      "z": 2.01
+    },
+    "bytes": 20836
+  },
+  {
+    "id": "nightstand",
+    "category": "furniture",
+    "path": "assets/furniture/nightstand.glb",
+    "dimensions_m": {
+      "x": 0.5,
+      "y": 0.6,
+      "z": 0.516
+    },
+    "bytes": 19584
+  },
+  {
+    "id": "floor_lamp",
+    "category": "furniture",
+    "path": "assets/furniture/floor_lamp.glb",
+    "dimensions_m": {
+      "x": 0.7,
+      "y": 1.875,
+      "z": 0.7
+    },
+    "bytes": 12348
+  },
+  {
+    "id": "table_lamp",
+    "category": "furniture",
+    "path": "assets/furniture/table_lamp.glb",
+    "dimensions_m": {
+      "x": 0.4,
+      "y": 0.605,
+      "z": 0.4
+    },
+    "bytes": 12176
+  },
+  {
+    "id": "coat_rack",
+    "category": "furniture",
+    "path": "assets/furniture/coat_rack.glb",
+    "dimensions_m": {
+      "x": 0.632,
+      "y": 1.8,
+      "z": 0.6
+    },
+    "bytes": 25696
+  },
+  {
+    "id": "tv_stand",
+    "category": "furniture",
+    "path": "assets/furniture/tv_stand.glb",
+    "dimensions_m": {
+      "x": 1.4,
+      "y": 1.425,
+      "z": 0.42
+    },
+    "bytes": 8448
+  },
+  {
+    "id": "refrigerator",
+    "category": "furniture",
+    "path": "assets/furniture/refrigerator.glb",
+    "dimensions_m": {
+      "x": 0.7,
+      "y": 1.8,
+      "z": 0.73
+    },
+    "bytes": 8468
+  },
+  {
+    "id": "washing_machine",
+    "category": "furniture",
+    "path": "assets/furniture/washing_machine.glb",
+    "dimensions_m": {
+      "x": 0.65,
+      "y": 0.9,
+      "z": 0.65
+    },
+    "bytes": 18984
+  },
+  {
+    "id": "kitchen_sink",
+    "category": "furniture",
+    "path": "assets/furniture/kitchen_sink.glb",
+    "dimensions_m": {
+      "x": 1.05,
+      "y": 1.225,
+      "z": 0.65
+    },
+    "bytes": 12048
+  },
+  {
+    "id": "wall_clock",
+    "category": "furniture",
+    "path": "assets/furniture/wall_clock.glb",
+    "dimensions_m": {
+      "x": 0.6,
+      "y": 0.6,
+      "z": 0.102
+    },
+    "bytes": 22144
+  }
+]
