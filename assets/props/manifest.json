@@ -1,0 +1,222 @@
+[
+  {
+    "id": "cardboard_box",
+    "category": "props",
+    "path": "assets/props/cardboard_box.glb",
+    "dimensions_m": {
+      "x": 0.6,
+      "y": 0.61,
+      "z": 0.51
+    },
+    "bytes": 5480
+  },
+  {
+    "id": "wood_crate",
+    "category": "props",
+    "path": "assets/props/wood_crate.glb",
+    "dimensions_m": {
+      "x": 0.64,
+      "y": 0.6,
+      "z": 0.588
+    },
+    "bytes": 14312
+  },
+  {
+    "id": "parcel",
+    "category": "props",
+    "path": "assets/props/parcel.glb",
+    "dimensions_m": {
+      "x": 0.6,
+      "y": 0.232,
+      "z": 0.51
+    },
+    "bytes": 5560
+  },
+  {
+    "id": "barrel",
+    "category": "props",
+    "path": "assets/props/barrel.glb",
+    "dimensions_m": {
+      "x": 0.7,
+      "y": 0.9,
+      "z": 0.7
+    },
+    "bytes": 47424
+  },
+  {
+    "id": "bucket",
+    "category": "props",
+    "path": "assets/props/bucket.glb",
+    "dimensions_m": {
+      "x": 0.436,
+      "y": 0.642,
+      "z": 0.436
+    },
+    "bytes": 38324
+  },
+  {
+    "id": "watering_can",
+    "category": "props",
+    "path": "assets/props/watering_can.glb",
+    "dimensions_m": {
+      "x": 0.878,
+      "y": 0.435,
+      "z": 0.36
+    },
+    "bytes": 25420
+  },
+  {
+    "id": "flower_pot",
+    "category": "props",
+    "path": "assets/props/flower_pot.glb",
+    "dimensions_m": {
+      "x": 0.67,
+      "y": 1.16,
+      "z": 0.67
+    },
+    "bytes": 34676
+  },
+  {
+    "id": "potted_plant",
+    "category": "props",
+    "path": "assets/props/potted_plant.glb",
+    "dimensions_m": {
+      "x": 0.877,
+      "y": 1.34,
+      "z": 0.79
+    },
+    "bytes": 104604
+  },
+  {
+    "id": "bottle",
+    "category": "props",
+    "path": "assets/props/bottle.glb",
+    "dimensions_m": {
+      "x": 0.14,
+      "y": 0.39,
+      "z": 0.14
+    },
+    "bytes": 10060
+  },
+  {
+    "id": "thermos",
+    "category": "props",
+    "path": "assets/props/thermos.glb",
+    "dimensions_m": {
+      "x": 0.14,
+      "y": 0.39,
+      "z": 0.14
+    },
+    "bytes": 10280
+  },
+  {
+    "id": "mug",
+    "category": "props",
+    "path": "assets/props/mug.glb",
+    "dimensions_m": {
+      "x": 0.224,
+      "y": 0.145,
+      "z": 0.15
+    },
+    "bytes": 25364
+  },
+  {
+    "id": "plate",
+    "category": "props",
+    "path": "assets/props/plate.glb",
+    "dimensions_m": {
+      "x": 0.304,
+      "y": 0.036,
+      "z": 0.304
+    },
+    "bytes": 23388
+  },
+  {
+    "id": "book_stack",
+    "category": "props",
+    "path": "assets/props/book_stack.glb",
+    "dimensions_m": {
+      "x": 0.331,
+      "y": 0.216,
+      "z": 0.378
+    },
+    "bytes": 13596
+  },
+  {
+    "id": "laptop",
+    "category": "props",
+    "path": "assets/props/laptop.glb",
+    "dimensions_m": {
+      "x": 0.34,
+      "y": 0.255,
+      "z": 0.24
+    },
+    "bytes": 7000
+  },
+  {
+    "id": "suitcase",
+    "category": "props",
+    "path": "assets/props/suitcase.glb",
+    "dimensions_m": {
+      "x": 0.5,
+      "y": 1.025,
+      "z": 0.25
+    },
+    "bytes": 29488
+  },
+  {
+    "id": "ladder",
+    "category": "props",
+    "path": "assets/props/ladder.glb",
+    "dimensions_m": {
+      "x": 0.56,
+      "y": 2.0,
+      "z": 0.08
+    },
+    "bytes": 13644
+  },
+  {
+    "id": "shovel",
+    "category": "props",
+    "path": "assets/props/shovel.glb",
+    "dimensions_m": {
+      "x": 0.206,
+      "y": 1.303,
+      "z": 0.05
+    },
+    "bytes": 21172
+  },
+  {
+    "id": "broom",
+    "category": "props",
+    "path": "assets/props/broom.glb",
+    "dimensions_m": {
+      "x": 0.32,
+      "y": 1.3,
+      "z": 0.08
+    },
+    "bytes": 5708
+  },
+  {
+    "id": "wheelbarrow",
+    "category": "props",
+    "path": "assets/props/wheelbarrow.glb",
+    "dimensions_m": {
+      "x": 0.6,
+      "y": 0.683,
+      "z": 1.627
+    },
+    "bytes": 20628
+  },
+  {
+    "id": "pallet",
+    "category": "props",
+    "path": "assets/props/pallet.glb",
+    "dimensions_m": {
+      "x": 1.1,
+      "y": 0.21,
+      "z": 0.92
+    },
+    "bytes": 14068
+  }
+]
