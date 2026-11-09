@@ -1,0 +1,222 @@
+[
+  {
+    "id": "wooden_bridge",
+    "category": "infrastructure",
+    "path": "assets/infrastructure/wooden_bridge.glb",
+    "dimensions_m": {
+      "x": 5.995,
+      "y": 1.415,
+      "z": 2.13
+    },
+    "bytes": 212648
+  },
+  {
+    "id": "arched_bridge",
+    "category": "infrastructure",
+    "path": "assets/infrastructure/arched_bridge.glb",
+    "dimensions_m": {
+      "x": 5.995,
+      "y": 2.115,
+      "z": 2.13
+    },
+    "bytes": 215576
+  },
+  {
+    "id": "stone_bridge",
+    "category": "infrastructure",
+    "path": "assets/infrastructure/stone_bridge.glb",
+    "dimensions_m": {
+      "x": 5.995,
+      "y": 2.115,
+      "z": 2.13
+    },
+    "bytes": 215288
+  },
+  {
+    "id": "truss_bridge",
+    "category": "infrastructure",
+    "path": "assets/infrastructure/truss_bridge.glb",
+    "dimensions_m": {
+      "x": 6.102,
+      "y": 2.08,
+      "z": 2.16
+    },
+    "bytes": 293884
+  },
+  {
+    "id": "rope_bridge",
+    "category": "infrastructure",
+    "path": "assets/infrastructure/rope_bridge.glb",
+    "dimensions_m": {
+      "x": 6.021,
+      "y": 1.933,
+      "z": 2.13
+    },
+    "bytes": 362968
+  },
+  {
+    "id": "picket_fence",
+    "category": "infrastructure",
+    "path": "assets/infrastructure/picket_fence.glb",
+    "dimensions_m": {
+      "x": 3.0,
+      "y": 1.4,
+      "z": 0.195
+    },
+    "bytes": 37624
+  },
+  {
+    "id": "rail_fence",
+    "category": "infrastructure",
+    "path": "assets/infrastructure/rail_fence.glb",
+    "dimensions_m": {
+      "x": 3.0,
+      "y": 1.4,
+      "z": 0.13
+    },
+    "bytes": 6508
+  },
+  {
+    "id": "metal_fence",
+    "category": "infrastructure",
+    "path": "assets/infrastructure/metal_fence.glb",
+    "dimensions_m": {
+      "x": 3.0,
+      "y": 1.4,
+      "z": 0.165
+    },
+    "bytes": 23316
+  },
+  {
+    "id": "brick_wall",
+    "category": "infrastructure",
+    "path": "assets/infrastructure/brick_wall.glb",
+    "dimensions_m": {
+      "x": 3.33,
+      "y": 1.18,
+      "z": 0.3
+    },
+    "bytes": 53100
+  },
+  {
+    "id": "stone_wall",
+    "category": "infrastructure",
+    "path": "assets/infrastructure/stone_wall.glb",
+    "dimensions_m": {
+      "x": 3.33,
+      "y": 1.18,
+      "z": 0.3
+    },
+    "bytes": 53092
+  },
+  {
+    "id": "gate",
+    "category": "infrastructure",
+    "path": "assets/infrastructure/gate.glb",
+    "dimensions_m": {
+      "x": 2.78,
+      "y": 1.7,
+      "z": 0.18
+    },
+    "bytes": 23180
+  },
+  {
+    "id": "stairs",
+    "category": "infrastructure",
+    "path": "assets/infrastructure/stairs.glb",
+    "dimensions_m": {
+      "x": 1.6,
+      "y": 1.2,
+      "z": 1.8
+    },
+    "bytes": 9500
+  },
+  {
+    "id": "ramp",
+    "category": "infrastructure",
+    "path": "assets/infrastructure/ramp.glb",
+    "dimensions_m": {
+      "x": 1.6,
+      "y": 0.902,
+      "z": 2.931
+    },
+    "bytes": 2132
+  },
+  {
+    "id": "wooden_dock",
+    "category": "infrastructure",
+    "path": "assets/infrastructure/wooden_dock.glb",
+    "dimensions_m": {
+      "x": 2.0,
+      "y": 0.9,
+      "z": 3.964
+    },
+    "bytes": 45728
+  },
+  {
+    "id": "gazebo",
+    "category": "infrastructure",
+    "path": "assets/infrastructure/gazebo.glb",
+    "dimensions_m": {
+      "x": 4.2,
+      "y": 3.5,
+      "z": 4.2
+    },
+    "bytes": 29768
+  },
+  {
+    "id": "pergola",
+    "category": "infrastructure",
+    "path": "assets/infrastructure/pergola.glb",
+    "dimensions_m": {
+      "x": 3.5,
+      "y": 2.725,
+      "z": 2.6
+    },
+    "bytes": 27796
+  },
+  {
+    "id": "bus_shelter",
+    "category": "infrastructure",
+    "path": "assets/infrastructure/bus_shelter.glb",
+    "dimensions_m": {
+      "x": 3.5,
+      "y": 2.71,
+      "z": 1.6
+    },
+    "bytes": 20712
+  },
+  {
+    "id": "well",
+    "category": "infrastructure",
+    "path": "assets/infrastructure/well.glb",
+    "dimensions_m": {
+      "x": 2.8,
+      "y": 3.15,
+      "z": 2.8
+    },
+    "bytes": 36300
+  },
+  {
+    "id": "planter_box",
+    "category": "infrastructure",
+    "path": "assets/infrastructure/planter_box.glb",
+    "dimensions_m": {
+      "x": 1.676,
+      "y": 1.15,
+      "z": 0.7
+    },
+    "bytes": 46672
+  },
+  {
+    "id": "bollard_row",
+    "category": "infrastructure",
+    "path": "assets/infrastructure/bollard_row.glb",
+    "dimensions_m": {
+      "x": 2.19,
+      "y": 0.9,
+      "z": 0.19
+    },
+    "bytes": 19148
+  }
+]
