@@ -1,0 +1,1333 @@
+[
+  {
+    "id": "chair",
+    "category": "furniture",
+    "path": "assets/furniture/chair.glb",
+    "dimensions_m": {
+      "x": 0.48,
+      "y": 1.02,
+      "z": 0.485
+    },
+    "bytes": 16192
+  },
+  {
+    "id": "stool",
+    "category": "furniture",
+    "path": "assets/furniture/stool.glb",
+    "dimensions_m": {
+      "x": 0.41,
+      "y": 0.52,
+      "z": 0.41
+    },
+    "bytes": 14692
+  },
+  {
+    "id": "dining_table",
+    "category": "furniture",
+    "path": "assets/furniture/dining_table.glb",
+    "dimensions_m": {
+      "x": 1.5,
+      "y": 0.79,
+      "z": 0.9
+    },
+    "bytes": 14520
+  },
+  {
+    "id": "coffee_table",
+    "category": "furniture",
+    "path": "assets/furniture/coffee_table.glb",
+    "dimensions_m": {
+      "x": 1.0,
+      "y": 0.46,
+      "z": 0.55
+    },
+    "bytes": 14696
+  },
+  {
+    "id": "desk",
+    "category": "furniture",
+    "path": "assets/furniture/desk.glb",
+    "dimensions_m": {
+      "x": 1.3,
+      "y": 0.79,
+      "z": 0.65
+    },
+    "bytes": 17708
+  },
+  {
+    "id": "sofa",
+    "category": "furniture",
+    "path": "assets/furniture/sofa.glb",
+    "dimensions_m": {
+      "x": 1.98,
+      "y": 1.0,
+      "z": 0.85
+    },
+    "bytes": 22620
+  },
+  {
+    "id": "armchair",
+    "category": "furniture",
+    "path": "assets/furniture/armchair.glb",
+    "dimensions_m": {
+      "x": 1.03,
+      "y": 1.0,
+      "z": 0.85
+    },
+    "bytes": 21132
+  },
+  {
+    "id": "bookshelf",
+    "category": "furniture",
+    "path": "assets/furniture/bookshelf.glb",
+    "dimensions_m": {
+      "x": 1.28,
+      "y": 1.83,
+      "z": 0.4
+    },
+    "bytes": 43424
+  },
+  {
+    "id": "cabinet",
+    "category": "furniture",
+    "path": "assets/furniture/cabinet.glb",
+    "dimensions_m": {
+      "x": 1.28,
+      "y": 1.08,
+      "z": 0.48
+    },
+    "bytes": 17424
+  },
+  {
+    "id": "wardrobe",
+    "category": "furniture",
+    "path": "assets/furniture/wardrobe.glb",
+    "dimensions_m": {
+      "x": 1.28,
+      "y": 1.83,
+      "z": 0.48
+    },
+    "bytes": 17436
+  },
+  {
+    "id": "bed",
+    "category": "furniture",
+    "path": "assets/furniture/bed.glb",
+    "dimensions_m": {
+      "x": 1.45,
+      "y": 1.1,
+      "z": 2.01
+    },
+    "bytes": 20836
+  },
+  {
+    "id": "nightstand",
+    "category": "furniture",
+    "path": "assets/furniture/nightstand.glb",
+    "dimensions_m": {
+      "x": 0.5,
+      "y": 0.6,
+      "z": 0.516
+    },
+    "bytes": 19584
+  },
+  {
+    "id": "floor_lamp",
+    "category": "furniture",
+    "path": "assets/furniture/floor_lamp.glb",
+    "dimensions_m": {
+      "x": 0.7,
+      "y": 1.875,
+      "z": 0.7
+    },
+    "bytes": 12348
+  },
+  {
+    "id": "table_lamp",
+    "category": "furniture",
+    "path": "assets/furniture/table_lamp.glb",
+    "dimensions_m": {
+      "x": 0.4,
+      "y": 0.605,
+      "z": 0.4
+    },
+    "bytes": 12176
+  },
+  {
+    "id": "coat_rack",
+    "category": "furniture",
+    "path": "assets/furniture/coat_rack.glb",
+    "dimensions_m": {
+      "x": 0.632,
+      "y": 1.8,
+      "z": 0.6
+    },
+    "bytes": 25696
+  },
+  {
+    "id": "tv_stand",
+    "category": "furniture",
+    "path": "assets/furniture/tv_stand.glb",
+    "dimensions_m": {
+      "x": 1.4,
+      "y": 1.425,
+      "z": 0.42
+    },
+    "bytes": 8448
+  },
+  {
+    "id": "refrigerator",
+    "category": "furniture",
+    "path": "assets/furniture/refrigerator.glb",
+    "dimensions_m": {
+      "x": 0.7,
+      "y": 1.8,
+      "z": 0.73
+    },
+    "bytes": 8468
+  },
+  {
+    "id": "washing_machine",
+    "category": "furniture",
+    "path": "assets/furniture/washing_machine.glb",
+    "dimensions_m": {
+      "x": 0.65,
+      "y": 0.9,
+      "z": 0.65
+    },
+    "bytes": 18984
+  },
+  {
+    "id": "kitchen_sink",
+    "category": "furniture",
+    "path": "assets/furniture/kitchen_sink.glb",
+    "dimensions_m": {
+      "x": 1.05,
+      "y": 1.225,
+      "z": 0.65
+    },
+    "bytes": 12048
+  },
+  {
+    "id": "wall_clock",
+    "category": "furniture",
+    "path": "assets/furniture/wall_clock.glb",
+    "dimensions_m": {
+      "x": 0.6,
+      "y": 0.6,
+      "z": 0.102
+    },
+    "bytes": 22144
+  },
+  {
+    "id": "wooden_bridge",
+    "category": "infrastructure",
+    "path": "assets/infrastructure/wooden_bridge.glb",
+    "dimensions_m": {
+      "x": 5.995,
+      "y": 1.415,
+      "z": 2.13
+    },
+    "bytes": 212648
+  },
+  {
+    "id": "arched_bridge",
+    "category": "infrastructure",
+    "path": "assets/infrastructure/arched_bridge.glb",
+    "dimensions_m": {
+      "x": 5.995,
+      "y": 2.115,
+      "z": 2.13
+    },
+    "bytes": 215576
+  },
+  {
+    "id": "stone_bridge",
+    "category": "infrastructure",
+    "path": "assets/infrastructure/stone_bridge.glb",
+    "dimensions_m": {
+      "x": 5.995,
+      "y": 2.115,
+      "z": 2.13
+    },
+    "bytes": 215288
+  },
+  {
+    "id": "truss_bridge",
+    "category": "infrastructure",
+    "path": "assets/infrastructure/truss_bridge.glb",
+    "dimensions_m": {
+      "x": 6.102,
+      "y": 2.08,
+      "z": 2.16
+    },
+    "bytes": 293884
+  },
+  {
+    "id": "rope_bridge",
+    "category": "infrastructure",
+    "path": "assets/infrastructure/rope_bridge.glb",
+    "dimensions_m": {
+      "x": 6.021,
+      "y": 1.933,
+      "z": 2.13
+    },
+    "bytes": 362968
+  },
+  {
+    "id": "picket_fence",
+    "category": "infrastructure",
+    "path": "assets/infrastructure/picket_fence.glb",
+    "dimensions_m": {
+      "x": 3.0,
+      "y": 1.4,
+      "z": 0.195
+    },
+    "bytes": 37624
+  },
+  {
+    "id": "rail_fence",
+    "category": "infrastructure",
+    "path": "assets/infrastructure/rail_fence.glb",
+    "dimensions_m": {
+      "x": 3.0,
+      "y": 1.4,
+      "z": 0.13
+    },
+    "bytes": 6508
+  },
+  {
+    "id": "metal_fence",
+    "category": "infrastructure",
+    "path": "assets/infrastructure/metal_fence.glb",
+    "dimensions_m": {
+      "x": 3.0,
+      "y": 1.4,
+      "z": 0.165
+    },
+    "bytes": 23316
+  },
+  {
+    "id": "brick_wall",
+    "category": "infrastructure",
+    "path": "assets/infrastructure/brick_wall.glb",
+    "dimensions_m": {
+      "x": 3.33,
+      "y": 1.18,
+      "z": 0.3
+    },
+    "bytes": 53100
+  },
+  {
+    "id": "stone_wall",
+    "category": "infrastructure",
+    "path": "assets/infrastructure/stone_wall.glb",
+    "dimensions_m": {
+      "x": 3.33,
+      "y": 1.18,
+      "z": 0.3
+    },
+    "bytes": 53092
+  },
+  {
+    "id": "gate",
+    "category": "infrastructure",
+    "path": "assets/infrastructure/gate.glb",
+    "dimensions_m": {
+      "x": 2.78,
+      "y": 1.7,
+      "z": 0.18
+    },
+    "bytes": 23180
+  },
+  {
+    "id": "stairs",
+    "category": "infrastructure",
+    "path": "assets/infrastructure/stairs.glb",
+    "dimensions_m": {
+      "x": 1.6,
+      "y": 1.2,
+      "z": 1.8
+    },
+    "bytes": 9500
+  },
+  {
+    "id": "ramp",
+    "category": "infrastructure",
+    "path": "assets/infrastructure/ramp.glb",
+    "dimensions_m": {
+      "x": 1.6,
+      "y": 0.902,
+      "z": 2.931
+    },
+    "bytes": 2132
+  },
+  {
+    "id": "wooden_dock",
+    "category": "infrastructure",
+    "path": "assets/infrastructure/wooden_dock.glb",
+    "dimensions_m": {
+      "x": 2.0,
+      "y": 0.9,
+      "z": 3.964
+    },
+    "bytes": 45728
+  },
+  {
+    "id": "gazebo",
+    "category": "infrastructure",
+    "path": "assets/infrastructure/gazebo.glb",
+    "dimensions_m": {
+      "x": 4.2,
+      "y": 3.5,
+      "z": 4.2
+    },
+    "bytes": 29768
+  },
+  {
+    "id": "pergola",
+    "category": "infrastructure",
+    "path": "assets/infrastructure/pergola.glb",
+    "dimensions_m": {
+      "x": 3.5,
+      "y": 2.725,
+      "z": 2.6
+    },
+    "bytes": 27796
+  },
+  {
+    "id": "bus_shelter",
+    "category": "infrastructure",
+    "path": "assets/infrastructure/bus_shelter.glb",
+    "dimensions_m": {
+      "x": 3.5,
+      "y": 2.71,
+      "z": 1.6
+    },
+    "bytes": 20712
+  },
+  {
+    "id": "well",
+    "category": "infrastructure",
+    "path": "assets/infrastructure/well.glb",
+    "dimensions_m": {
+      "x": 2.8,
+      "y": 3.15,
+      "z": 2.8
+    },
+    "bytes": 36300
+  },
+  {
+    "id": "planter_box",
+    "category": "infrastructure",
+    "path": "assets/infrastructure/planter_box.glb",
+    "dimensions_m": {
+      "x": 1.676,
+      "y": 1.15,
+      "z": 0.7
+    },
+    "bytes": 46672
+  },
+  {
+    "id": "bollard_row",
+    "category": "infrastructure",
+    "path": "assets/infrastructure/bollard_row.glb",
+    "dimensions_m": {
+      "x": 2.19,
+      "y": 0.9,
+      "z": 0.19
+    },
+    "bytes": 19148
+  },
+  {
+    "id": "oak",
+    "category": "nature",
+    "path": "assets/nature/oak.glb",
+    "dimensions_m": {
+      "x": 3.498,
+      "y": 3.7,
+      "z": 3.406
+    },
+    "bytes": 86104
+  },
+  {
+    "id": "birch",
+    "category": "nature",
+    "path": "assets/nature/birch.glb",
+    "dimensions_m": {
+      "x": 2.699,
+      "y": 4.62,
+      "z": 2.726
+    },
+    "bytes": 98724
+  },
+  {
+    "id": "maple",
+    "category": "nature",
+    "path": "assets/nature/maple.glb",
+    "dimensions_m": {
+      "x": 3.879,
+      "y": 3.37,
+      "z": 3.466
+    },
+    "bytes": 85924
+  },
+  {
+    "id": "cherry",
+    "category": "nature",
+    "path": "assets/nature/cherry.glb",
+    "dimensions_m": {
+      "x": 3.974,
+      "y": 3.42,
+      "z": 3.666
+    },
+    "bytes": 85940
+  },
+  {
+    "id": "apple_tree",
+    "category": "nature",
+    "path": "assets/nature/apple_tree.glb",
+    "dimensions_m": {
+      "x": 3.023,
+      "y": 3.47,
+      "z": 3.166
+    },
+    "bytes": 145764
+  },
+  {
+    "id": "dead_tree",
+    "category": "nature",
+    "path": "assets/nature/dead_tree.glb",
+    "dimensions_m": {
+      "x": 1.88,
+      "y": 2.857,
+      "z": 1.876
+    },
+    "bytes": 25872
+  },
+  {
+    "id": "pine",
+    "category": "nature",
+    "path": "assets/nature/pine.glb",
+    "dimensions_m": {
+      "x": 2.167,
+      "y": 3.735,
+      "z": 2.134
+    },
+    "bytes": 11908
+  },
+  {
+    "id": "fir",
+    "category": "nature",
+    "path": "assets/nature/fir.glb",
+    "dimensions_m": {
+      "x": 2.265,
+      "y": 3.625,
+      "z": 2.231
+    },
+    "bytes": 15640
+  },
+  {
+    "id": "cypress",
+    "category": "nature",
+    "path": "assets/nature/cypress.glb",
+    "dimensions_m": {
+      "x": 1.236,
+      "y": 3.8,
+      "z": 1.3
+    },
+    "bytes": 13016
+  },
+  {
+    "id": "palm",
+    "category": "nature",
+    "path": "assets/nature/palm.glb",
+    "dimensions_m": {
+      "x": 3.421,
+      "y": 3.249,
+      "z": 3.474
+    },
+    "bytes": 78480
+  },
+  {
+    "id": "bush",
+    "category": "nature",
+    "path": "assets/nature/bush.glb",
+    "dimensions_m": {
+      "x": 1.586,
+      "y": 1.2,
+      "z": 1.528
+    },
+    "bytes": 60232
+  },
+  {
+    "id": "flower_bush",
+    "category": "nature",
+    "path": "assets/nature/flower_bush.glb",
+    "dimensions_m": {
+      "x": 1.586,
+      "y": 1.2,
+      "z": 1.528
+    },
+    "bytes": 79700
+  },
+  {
+    "id": "hedge",
+    "category": "nature",
+    "path": "assets/nature/hedge.glb",
+    "dimensions_m": {
+      "x": 2.0,
+      "y": 1.3,
+      "z": 0.65
+    },
+    "bytes": 2072
+  },
+  {
+    "id": "topiary",
+    "category": "nature",
+    "path": "assets/nature/topiary.glb",
+    "dimensions_m": {
+      "x": 1.046,
+      "y": 2.05,
+      "z": 1.1
+    },
+    "bytes": 34656
+  },
+  {
+    "id": "boulder",
+    "category": "nature",
+    "path": "assets/nature/boulder.glb",
+    "dimensions_m": {
+      "x": 1.522,
+      "y": 1.12,
+      "z": 1.28
+    },
+    "bytes": 9472
+  },
+  {
+    "id": "rock_cluster",
+    "category": "nature",
+    "path": "assets/nature/rock_cluster.glb",
+    "dimensions_m": {
+      "x": 1.547,
+      "y": 0.569,
+      "z": 1.031
+    },
+    "bytes": 43408
+  },
+  {
+    "id": "pebbles",
+    "category": "nature",
+    "path": "assets/nature/pebbles.glb",
+    "dimensions_m": {
+      "x": 1.808,
+      "y": 0.62,
+      "z": 1.296
+    },
+    "bytes": 77260
+  },
+  {
+    "id": "stump",
+    "category": "nature",
+    "path": "assets/nature/stump.glb",
+    "dimensions_m": {
+      "x": 1.136,
+      "y": 0.667,
+      "z": 1.195
+    },
+    "bytes": 22744
+  },
+  {
+    "id": "log",
+    "category": "nature",
+    "path": "assets/nature/log.glb",
+    "dimensions_m": {
+      "x": 2.02,
+      "y": 0.656,
+      "z": 0.662
+    },
+    "bytes": 10224
+  },
+  {
+    "id": "flower_patch",
+    "category": "nature",
+    "path": "assets/nature/flower_patch.glb",
+    "dimensions_m": {
+      "x": 1.367,
+      "y": 0.583,
+      "z": 0.893
+    },
+    "bytes": 234676
+  },
+  {
+    "id": "grass_clump",
+    "category": "nature",
+    "path": "assets/nature/grass_clump.glb",
+    "dimensions_m": {
+      "x": 0.923,
+      "y": 0.599,
+      "z": 0.938
+    },
+    "bytes": 57632
+  },
+  {
+    "id": "cardboard_box",
+    "category": "props",
+    "path": "assets/props/cardboard_box.glb",
+    "dimensions_m": {
+      "x": 0.6,
+      "y": 0.61,
+      "z": 0.51
+    },
+    "bytes": 5480
+  },
+  {
+    "id": "wood_crate",
+    "category": "props",
+    "path": "assets/props/wood_crate.glb",
+    "dimensions_m": {
+      "x": 0.64,
+      "y": 0.6,
+      "z": 0.588
+    },
+    "bytes": 14312
+  },
+  {
+    "id": "parcel",
+    "category": "props",
+    "path": "assets/props/parcel.glb",
+    "dimensions_m": {
+      "x": 0.6,
+      "y": 0.232,
+      "z": 0.51
+    },
+    "bytes": 5560
+  },
+  {
+    "id": "barrel",
+    "category": "props",
+    "path": "assets/props/barrel.glb",
+    "dimensions_m": {
+      "x": 0.7,
+      "y": 0.9,
+      "z": 0.7
+    },
+    "bytes": 47424
+  },
+  {
+    "id": "bucket",
+    "category": "props",
+    "path": "assets/props/bucket.glb",
+    "dimensions_m": {
+      "x": 0.436,
+      "y": 0.642,
+      "z": 0.436
+    },
+    "bytes": 38324
+  },
+  {
+    "id": "watering_can",
+    "category": "props",
+    "path": "assets/props/watering_can.glb",
+    "dimensions_m": {
+      "x": 0.878,
+      "y": 0.435,
+      "z": 0.36
+    },
+    "bytes": 25420
+  },
+  {
+    "id": "flower_pot",
+    "category": "props",
+    "path": "assets/props/flower_pot.glb",
+    "dimensions_m": {
+      "x": 0.67,
+      "y": 1.16,
+      "z": 0.67
+    },
+    "bytes": 34676
+  },
+  {
+    "id": "potted_plant",
+    "category": "props",
+    "path": "assets/props/potted_plant.glb",
+    "dimensions_m": {
+      "x": 0.877,
+      "y": 1.34,
+      "z": 0.79
+    },
+    "bytes": 104604
+  },
+  {
+    "id": "bottle",
+    "category": "props",
+    "path": "assets/props/bottle.glb",
+    "dimensions_m": {
+      "x": 0.14,
+      "y": 0.39,
+      "z": 0.14
+    },
+    "bytes": 10060
+  },
+  {
+    "id": "thermos",
+    "category": "props",
+    "path": "assets/props/thermos.glb",
+    "dimensions_m": {
+      "x": 0.14,
+      "y": 0.39,
+      "z": 0.14
+    },
+    "bytes": 10280
+  },
+  {
+    "id": "mug",
+    "category": "props",
+    "path": "assets/props/mug.glb",
+    "dimensions_m": {
+      "x": 0.224,
+      "y": 0.145,
+      "z": 0.15
+    },
+    "bytes": 25364
+  },
+  {
+    "id": "plate",
+    "category": "props",
+    "path": "assets/props/plate.glb",
+    "dimensions_m": {
+      "x": 0.304,
+      "y": 0.036,
+      "z": 0.304
+    },
+    "bytes": 23388
+  },
+  {
+    "id": "book_stack",
+    "category": "props",
+    "path": "assets/props/book_stack.glb",
+    "dimensions_m": {
+      "x": 0.331,
+      "y": 0.216,
+      "z": 0.378
+    },
+    "bytes": 13596
+  },
+  {
+    "id": "laptop",
+    "category": "props",
+    "path": "assets/props/laptop.glb",
+    "dimensions_m": {
+      "x": 0.34,
+      "y": 0.255,
+      "z": 0.24
+    },
+    "bytes": 7000
+  },
+  {
+    "id": "suitcase",
+    "category": "props",
+    "path": "assets/props/suitcase.glb",
+    "dimensions_m": {
+      "x": 0.5,
+      "y": 1.025,
+      "z": 0.25
+    },
+    "bytes": 29488
+  },
+  {
+    "id": "ladder",
+    "category": "props",
+    "path": "assets/props/ladder.glb",
+    "dimensions_m": {
+      "x": 0.56,
+      "y": 2.0,
+      "z": 0.08
+    },
+    "bytes": 13644
+  },
+  {
+    "id": "shovel",
+    "category": "props",
+    "path": "assets/props/shovel.glb",
+    "dimensions_m": {
+      "x": 0.206,
+      "y": 1.303,
+      "z": 0.05
+    },
+    "bytes": 21172
+  },
+  {
+    "id": "broom",
+    "category": "props",
+    "path": "assets/props/broom.glb",
+    "dimensions_m": {
+      "x": 0.32,
+      "y": 1.3,
+      "z": 0.08
+    },
+    "bytes": 5708
+  },
+  {
+    "id": "wheelbarrow",
+    "category": "props",
+    "path": "assets/props/wheelbarrow.glb",
+    "dimensions_m": {
+      "x": 0.6,
+      "y": 0.683,
+      "z": 1.627
+    },
+    "bytes": 20628
+  },
+  {
+    "id": "pallet",
+    "category": "props",
+    "path": "assets/props/pallet.glb",
+    "dimensions_m": {
+      "x": 1.1,
+      "y": 0.21,
+      "z": 0.92
+    },
+    "bytes": 14068
+  },
+  {
+    "id": "parking",
+    "category": "signs",
+    "path": "assets/signs/parking.glb",
+    "dimensions_m": {
+      "x": 0.65,
+      "y": 2.35,
+      "z": 0.36
+    },
+    "bytes": 18632
+  },
+  {
+    "id": "bus_stop",
+    "category": "signs",
+    "path": "assets/signs/bus_stop.glb",
+    "dimensions_m": {
+      "x": 0.65,
+      "y": 2.35,
+      "z": 0.36
+    },
+    "bytes": 56812
+  },
+  {
+    "id": "speed_30",
+    "category": "signs",
+    "path": "assets/signs/speed_30.glb",
+    "dimensions_m": {
+      "x": 0.72,
+      "y": 2.36,
+      "z": 0.36
+    },
+    "bytes": 60344
+  },
+  {
+    "id": "speed_50",
+    "category": "signs",
+    "path": "assets/signs/speed_50.glb",
+    "dimensions_m": {
+      "x": 0.72,
+      "y": 2.36,
+      "z": 0.36
+    },
+    "bytes": 49856
+  },
+  {
+    "id": "stop",
+    "category": "signs",
+    "path": "assets/signs/stop.glb",
+    "dimensions_m": {
+      "x": 0.8,
+      "y": 2.4,
+      "z": 0.36
+    },
+    "bytes": 54236
+  },
+  {
+    "id": "information",
+    "category": "signs",
+    "path": "assets/signs/information.glb",
+    "dimensions_m": {
+      "x": 0.65,
+      "y": 2.35,
+      "z": 0.36
+    },
+    "bytes": 17996
+  },
+  {
+    "id": "hospital",
+    "category": "signs",
+    "path": "assets/signs/hospital.glb",
+    "dimensions_m": {
+      "x": 0.65,
+      "y": 2.35,
+      "z": 0.36
+    },
+    "bytes": 11852
+  },
+  {
+    "id": "cafe",
+    "category": "signs",
+    "path": "assets/signs/cafe.glb",
+    "dimensions_m": {
+      "x": 1.15,
+      "y": 2.2,
+      "z": 0.36
+    },
+    "bytes": 30148
+  },
+  {
+    "id": "exit",
+    "category": "signs",
+    "path": "assets/signs/exit.glb",
+    "dimensions_m": {
+      "x": 1.15,
+      "y": 2.2,
+      "z": 0.36
+    },
+    "bytes": 15840
+  },
+  {
+    "id": "park",
+    "category": "signs",
+    "path": "assets/signs/park.glb",
+    "dimensions_m": {
+      "x": 1.15,
+      "y": 2.2,
+      "z": 0.36
+    },
+    "bytes": 36556
+  },
+  {
+    "id": "no_entry",
+    "category": "signs",
+    "path": "assets/signs/no_entry.glb",
+    "dimensions_m": {
+      "x": 0.72,
+      "y": 2.36,
+      "z": 0.36
+    },
+    "bytes": 16888
+  },
+  {
+    "id": "warning",
+    "category": "signs",
+    "path": "assets/signs/warning.glb",
+    "dimensions_m": {
+      "x": 0.797,
+      "y": 2.46,
+      "z": 0.36
+    },
+    "bytes": 28488
+  },
+  {
+    "id": "crosswalk",
+    "category": "signs",
+    "path": "assets/signs/crosswalk.glb",
+    "dimensions_m": {
+      "x": 0.797,
+      "y": 2.46,
+      "z": 0.36
+    },
+    "bytes": 16340
+  },
+  {
+    "id": "bicycle",
+    "category": "signs",
+    "path": "assets/signs/bicycle.glb",
+    "dimensions_m": {
+      "x": 0.65,
+      "y": 2.35,
+      "z": 0.36
+    },
+    "bytes": 30548
+  },
+  {
+    "id": "toilet",
+    "category": "signs",
+    "path": "assets/signs/toilet.glb",
+    "dimensions_m": {
+      "x": 0.65,
+      "y": 2.35,
+      "z": 0.36
+    },
+    "bytes": 26932
+  },
+  {
+    "id": "street_name",
+    "category": "signs",
+    "path": "assets/signs/street_name.glb",
+    "dimensions_m": {
+      "x": 1.15,
+      "y": 2.2,
+      "z": 0.36
+    },
+    "bytes": 45560
+  },
+  {
+    "id": "a_frame",
+    "category": "signs",
+    "path": "assets/signs/a_frame.glb",
+    "dimensions_m": {
+      "x": 0.77,
+      "y": 1.118,
+      "z": 0.668
+    },
+    "bytes": 47568
+  },
+  {
+    "id": "menu_board",
+    "category": "signs",
+    "path": "assets/signs/menu_board.glb",
+    "dimensions_m": {
+      "x": 0.77,
+      "y": 1.118,
+      "z": 0.668
+    },
+    "bytes": 38448
+  },
+  {
+    "id": "notice_board",
+    "category": "signs",
+    "path": "assets/signs/notice_board.glb",
+    "dimensions_m": {
+      "x": 1.8,
+      "y": 2.0,
+      "z": 0.16
+    },
+    "bytes": 11552
+  },
+  {
+    "id": "direction_post",
+    "category": "signs",
+    "path": "assets/signs/direction_post.glb",
+    "dimensions_m": {
+      "x": 1.7,
+      "y": 2.4,
+      "z": 0.172
+    },
+    "bytes": 77444
+  },
+  {
+    "id": "bench",
+    "category": "street",
+    "path": "assets/street/bench.glb",
+    "dimensions_m": {
+      "x": 1.8,
+      "y": 0.525,
+      "z": 0.528
+    },
+    "bytes": 19424
+  },
+  {
+    "id": "park_bench",
+    "category": "street",
+    "path": "assets/street/park_bench.glb",
+    "dimensions_m": {
+      "x": 1.8,
+      "y": 1.052,
+      "z": 0.599
+    },
+    "bytes": 28724
+  },
+  {
+    "id": "picnic_table",
+    "category": "street",
+    "path": "assets/street/picnic_table.glb",
+    "dimensions_m": {
+      "x": 1.8,
+      "y": 0.871,
+      "z": 1.8
+    },
+    "bytes": 28508
+  },
+  {
+    "id": "trash_bin",
+    "category": "street",
+    "path": "assets/street/trash_bin.glb",
+    "dimensions_m": {
+      "x": 0.68,
+      "y": 0.985,
+      "z": 0.68
+    },
+    "bytes": 8968
+  },
+  {
+    "id": "recycling_bin",
+    "category": "street",
+    "path": "assets/street/recycling_bin.glb",
+    "dimensions_m": {
+      "x": 0.68,
+      "y": 0.985,
+      "z": 0.68
+    },
+    "bytes": 24516
+  },
+  {
+    "id": "street_lamp",
+    "category": "street",
+    "path": "assets/street/street_lamp.glb",
+    "dimensions_m": {
+      "x": 1.105,
+      "y": 3.66,
+      "z": 0.36
+    },
+    "bytes": 13372
+  },
+  {
+    "id": "lantern_lamp",
+    "category": "street",
+    "path": "assets/street/lantern_lamp.glb",
+    "dimensions_m": {
+      "x": 0.7,
+      "y": 3.145,
+      "z": 0.7
+    },
+    "bytes": 13236
+  },
+  {
+    "id": "traffic_light",
+    "category": "street",
+    "path": "assets/street/traffic_light.glb",
+    "dimensions_m": {
+      "x": 0.35,
+      "y": 3.025,
+      "z": 0.252
+    },
+    "bytes": 20856
+  },
+  {
+    "id": "hydrant",
+    "category": "street",
+    "path": "assets/street/hydrant.glb",
+    "dimensions_m": {
+      "x": 0.54,
+      "y": 0.92,
+      "z": 0.4
+    },
+    "bytes": 19156
+  },
+  {
+    "id": "post_box",
+    "category": "street",
+    "path": "assets/street/post_box.glb",
+    "dimensions_m": {
+      "x": 0.55,
+      "y": 1.3,
+      "z": 0.44
+    },
+    "bytes": 49732
+  },
+  {
+    "id": "traffic_cone",
+    "category": "street",
+    "path": "assets/street/traffic_cone.glb",
+    "dimensions_m": {
+      "x": 0.42,
+      "y": 0.68,
+      "z": 0.42
+    },
+    "bytes": 10572
+  },
+  {
+    "id": "road_barrier",
+    "category": "street",
+    "path": "assets/street/road_barrier.glb",
+    "dimensions_m": {
+      "x": 1.9,
+      "y": 0.85,
+      "z": 0.6
+    },
+    "bytes": 14600
+  },
+  {
+    "id": "bike_rack",
+    "category": "street",
+    "path": "assets/street/bike_rack.glb",
+    "dimensions_m": {
+      "x": 1.57,
+      "y": 0.735,
+      "z": 0.67
+    },
+    "bytes": 28608
+  },
+  {
+    "id": "drinking_fountain",
+    "category": "street",
+    "path": "assets/street/drinking_fountain.glb",
+    "dimensions_m": {
+      "x": 0.6,
+      "y": 1.07,
+      "z": 0.6
+    },
+    "bytes": 10168
+  },
+  {
+    "id": "fountain",
+    "category": "street",
+    "path": "assets/street/fountain.glb",
+    "dimensions_m": {
+      "x": 2.6,
+      "y": 1.6,
+      "z": 2.6
+    },
+    "bytes": 39000
+  },
+  {
+    "id": "utility_box",
+    "category": "street",
+    "path": "assets/street/utility_box.glb",
+    "dimensions_m": {
+      "x": 0.8,
+      "y": 1.4,
+      "z": 0.48
+    },
+    "bytes": 12852
+  },
+  {
+    "id": "vending_machine",
+    "category": "street",
+    "path": "assets/street/vending_machine.glb",
+    "dimensions_m": {
+      "x": 0.9,
+      "y": 1.8,
+      "z": 0.74
+    },
+    "bytes": 35628
+  },
+  {
+    "id": "manhole",
+    "category": "street",
+    "path": "assets/street/manhole.glb",
+    "dimensions_m": {
+      "x": 0.9,
+      "y": 0.059,
+      "z": 0.9
+    },
+    "bytes": 19096
+  },
+  {
+    "id": "tree_guard",
+    "category": "street",
+    "path": "assets/street/tree_guard.glb",
+    "dimensions_m": {
+      "x": 0.95,
+      "y": 1.0,
+      "z": 0.95
+    },
+    "bytes": 66320
+  },
+  {
+    "id": "sandbox",
+    "category": "street",
+    "path": "assets/street/sandbox.glb",
+    "dimensions_m": {
+      "x": 2.2,
+      "y": 0.3,
+      "z": 2.2
+    },
+    "bytes": 8136
+  }
+]

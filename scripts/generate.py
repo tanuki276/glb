@@ -42,15 +42,15 @@ def nature(name):
   h=3.4 if name=='birch' else 2.7; bark='white' if name=='birch' else 'bark';cyl((0,0,h/2),.19,h,bark,r2=.09)
   for i in range(7):
    a=i*2.4; end=(math.cos(a)*.9,math.sin(a)*.9,h-.6+(i%3)*.36);beam((0,0,h*.56),end,.065,bark)
-   if name!='dead_tree':ball(end,(.9,.82,.88),{'cherry':'pink','maple':'orange'}.get(name,'leaf' if i%2 else 'lightleaf'),2)
-   if name=='apple_tree':ball((end[0],end[1]-.65,end[2]-.18),(.1,)*3,'red',2)
+   if name!='dead_tree':ball(end,({'birch':(.48,.48,1.1),'maple':(1.1,.85,.55),'cherry':(1.15,.95,.6),'apple_tree':(.65,.65,.65)}.get(name,(.9,.82,.88))),{'cherry':'pink','maple':'orange'}.get(name,'leaf' if i%2 else 'lightleaf'),2)
+   if name=='apple_tree':ball((end[0],end[1]-.65,end[2]-.3),(.1,)*3,'red',2)
   if name=='birch':
    for i in range(8):box((0,-.165,.3+i*.34),(.13,.025,.045),'black')
  elif name in ['pine','fir','cypress']:
   cyl((0,0,1.5),.15,3,'bark',r2=.07)
   if name=='cypress':ball((0,0,2),(.65,.65,1.8),'darkleaf',2)
   else:
-   for i in range(4):cyl((0,0,1.15+i*.62),1.1-i*.21,1.45,'darkleaf' if i%2 else 'leaf',9,r2=0)
+   for i in range(6 if name=='fir' else 4):cyl((0,0,(.85+i*.45) if name=='fir' else (1.15+i*.62)),(1.15-i*.17) if name=='fir' else (1.1-i*.21),1.05 if name=='fir' else 1.45,'darkleaf' if i%2 else 'leaf',9,r2=0)
  elif name=='palm':
   for i in range(8):cyl((i*.025,0,.2+i*.39),.19-i*.01,.42,'bark',r2=.17-i*.01)
   for i in range(9):
@@ -203,7 +203,7 @@ def street(name):
  elif name=='post_box':
   box((0,0,.65),(.55,.42,1.3),'red');box((0,-.22,1.02),(.35,.02,.06),'black');text('POST',(0,-.225,.75),.12);box((0,-.22,.3),(.38,.02,.35),'red')
  elif name in ['traffic_cone','road_barrier']:
-  if name=='traffic_cone':box((0,0,.04),(.42,.42,.08),'black');cyl((0,0,.36),.17,.64,'orange',16,r2=.035);cyl((0,0,.4),.105,.12,'white',16,r2=.08)
+  if name=='traffic_cone':box((0,0,.04),(.42,.42,.08),'black');cyl((0,0,.36),.17,.64,'orange',16,r2=.035);cyl((0,0,.4),.11,.12,'white',16,r2=.085)
   else:
    for x in [-.8,.8]:box((x,0,.4),(.08,.08,.8),'metal');box((x,0,.04),(.15,.6,.08),'metal')
    box((0,0,.7),(1.9,.15,.3),'orange')
@@ -244,12 +244,12 @@ def furniture(name):
   for x in [-w/2,w/2]:box((x,0,.53),(.18,.85,.45),'fabric')
   for i in range(2 if name=='sofa' else 1):box(((-.42 if i==0 else .42) if name=='sofa' else 0,-.02,.51),(.78 if name=='sofa' else .6,.6,.12),'lightleaf')
  elif name in ['bookshelf','cabinet','wardrobe']:
-  w=1.2;h=1.8
+  w=1.2;h=1.05 if name=='cabinet' else 1.8
   for x in [-.6,.6]:box((x,0,h/2),(.08,.4,h))
   box((0,.18,h/2),(1.2,.04,h))
-  for z in [0.04,.6,1.2,1.8]:box((0,0,z),(1.2,.4,.06))
+  for z in [0.04,h/3,h*2/3,h]:box((0,0,z),(1.2,.4,.06))
   if name!='bookshelf':
-   for x in [-.3,.3]:box((x,-.22,.9),(.58,.05,1.7));box((x*.25,-.26,.9),(.03,.04,.16),'metal')
+   for x in [-.3,.3]:box((x,-.22,h/2),(.58,.05,h-.1));box((x*.25,-.26,h/2),(.03,.04,.16),'metal')
   else:
    for z in [.08,.64,1.24]:
     for i in range(7):box((-.48+i*.14,0,z+.18),(.09,.23,.36),['red','blue','yellow','darkleaf'][i%4])
@@ -331,7 +331,10 @@ def bounds(objects):
 def run(group):
  names,build=GROUPS[group];records=[]
  for name in names:
-  bpy.ops.object.select_all(action='SELECT');bpy.ops.object.delete(use_global=False);build(name);bpy.context.view_layer.update();objects=list(bpy.context.scene.objects);lo,hi=bounds(objects)
+  bpy.ops.object.select_all(action='SELECT');bpy.ops.object.delete(use_global=False);build(name)
+  if name=='parcel':
+   for o in bpy.context.scene.objects:o.location.z*=.38;o.scale.z*=.38
+  bpy.context.view_layer.update();objects=list(bpy.context.scene.objects);lo,hi=bounds(objects)
   # Center horizontal footprint and put lowest point exactly on ground.
   delta=Vector((-(lo.x+hi.x)/2,-(lo.y+hi.y)/2,-lo.z))
   for o in objects:o.location+=delta
