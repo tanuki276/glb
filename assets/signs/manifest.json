@@ -1,0 +1,222 @@
+[
+  {
+    "id": "parking",
+    "category": "signs",
+    "path": "assets/signs/parking.glb",
+    "dimensions_m": {
+      "x": 0.65,
+      "y": 2.35,
+      "z": 0.36
+    },
+    "bytes": 18632
+  },
+  {
+    "id": "bus_stop",
+    "category": "signs",
+    "path": "assets/signs/bus_stop.glb",
+    "dimensions_m": {
+      "x": 0.65,
+      "y": 2.35,
+      "z": 0.36
+    },
+    "bytes": 56812
+  },
+  {
+    "id": "speed_30",
+    "category": "signs",
+    "path": "assets/signs/speed_30.glb",
+    "dimensions_m": {
+      "x": 0.72,
+      "y": 2.36,
+      "z": 0.36
+    },
+    "bytes": 60344
+  },
+  {
+    "id": "speed_50",
+    "category": "signs",
+    "path": "assets/signs/speed_50.glb",
+    "dimensions_m": {
+      "x": 0.72,
+      "y": 2.36,
+      "z": 0.36
+    },
+    "bytes": 49856
+  },
+  {
+    "id": "stop",
+    "category": "signs",
+    "path": "assets/signs/stop.glb",
+    "dimensions_m": {
+      "x": 0.8,
+      "y": 2.4,
+      "z": 0.36
+    },
+    "bytes": 54236
+  },
+  {
+    "id": "information",
+    "category": "signs",
+    "path": "assets/signs/information.glb",
+    "dimensions_m": {
+      "x": 0.65,
+      "y": 2.35,
+      "z": 0.36
+    },
+    "bytes": 17996
+  },
+  {
+    "id": "hospital",
+    "category": "signs",
+    "path": "assets/signs/hospital.glb",
+    "dimensions_m": {
+      "x": 0.65,
+      "y": 2.35,
+      "z": 0.36
+    },
+    "bytes": 11852
+  },
+  {
+    "id": "cafe",
+    "category": "signs",
+    "path": "assets/signs/cafe.glb",
+    "dimensions_m": {
+      "x": 1.15,
+      "y": 2.2,
+      "z": 0.36
+    },
+    "bytes": 30148
+  },
+  {
+    "id": "exit",
+    "category": "signs",
+    "path": "assets/signs/exit.glb",
+    "dimensions_m": {
+      "x": 1.15,
+      "y": 2.2,
+      "z": 0.36
+    },
+    "bytes": 15840
+  },
+  {
+    "id": "park",
+    "category": "signs",
+    "path": "assets/signs/park.glb",
+    "dimensions_m": {
+      "x": 1.15,
+      "y": 2.2,
+      "z": 0.36
+    },
+    "bytes": 36556
+  },
+  {
+    "id": "no_entry",
+    "category": "signs",
+    "path": "assets/signs/no_entry.glb",
+    "dimensions_m": {
+      "x": 0.72,
+      "y": 2.36,
+      "z": 0.36
+    },
+    "bytes": 16888
+  },
+  {
+    "id": "warning",
+    "category": "signs",
+    "path": "assets/signs/warning.glb",
+    "dimensions_m": {
+      "x": 0.797,
+      "y": 2.46,
+      "z": 0.36
+    },
+    "bytes": 28488
+  },
+  {
+    "id": "crosswalk",
+    "category": "signs",
+    "path": "assets/signs/crosswalk.glb",
+    "dimensions_m": {
+      "x": 0.797,
+      "y": 2.46,
+      "z": 0.36
+    },
+    "bytes": 16340
+  },
+  {
+    "id": "bicycle",
+    "category": "signs",
+    "path": "assets/signs/bicycle.glb",
+    "dimensions_m": {
+      "x": 0.65,
+      "y": 2.35,
+      "z": 0.36
+    },
+    "bytes": 30548
+  },
+  {
+    "id": "toilet",
+    "category": "signs",
+    "path": "assets/signs/toilet.glb",
+    "dimensions_m": {
+      "x": 0.65,
+      "y": 2.35,
+      "z": 0.36
+    },
+    "bytes": 26932
+  },
+  {
+    "id": "street_name",
+    "category": "signs",
+    "path": "assets/signs/street_name.glb",
+    "dimensions_m": {
+      "x": 1.15,
+      "y": 2.2,
+      "z": 0.36
+    },
+    "bytes": 45560
+  },
+  {
+    "id": "a_frame",
+    "category": "signs",
+    "path": "assets/signs/a_frame.glb",
+    "dimensions_m": {
+      "x": 0.77,
+      "y": 1.118,
+      "z": 0.668
+    },
+    "bytes": 47568
+  },
+  {
+    "id": "menu_board",
+    "category": "signs",
+    "path": "assets/signs/menu_board.glb",
+    "dimensions_m": {
+      "x": 0.77,
+      "y": 1.118,
+      "z": 0.668
+    },
+    "bytes": 38448
+  },
+  {
+    "id": "notice_board",
+    "category": "signs",
+    "path": "assets/signs/notice_board.glb",
+    "dimensions_m": {
+      "x": 1.8,
+      "y": 2.0,
+      "z": 0.16
+    },
+    "bytes": 11552
+  },
+  {
+    "id": "direction_post",
+    "category": "signs",
+    "path": "assets/signs/direction_post.glb",
+    "dimensions_m": {
+      "x": 1.7,
+      "y": 2.4,
+      "z": 0.172
+    },
+    "bytes": 77444
+  }
+]
