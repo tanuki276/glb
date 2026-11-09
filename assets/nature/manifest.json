@@ -1,0 +1,233 @@
+[
+  {
+    "id": "oak",
+    "category": "nature",
+    "path": "assets/nature/oak.glb",
+    "dimensions_m": {
+      "x": 3.498,
+      "y": 3.7,
+      "z": 3.406
+    },
+    "bytes": 86104
+  },
+  {
+    "id": "birch",
+    "category": "nature",
+    "path": "assets/nature/birch.glb",
+    "dimensions_m": {
+      "x": 2.699,
+      "y": 4.62,
+      "z": 2.726
+    },
+    "bytes": 98724
+  },
+  {
+    "id": "maple",
+    "category": "nature",
+    "path": "assets/nature/maple.glb",
+    "dimensions_m": {
+      "x": 3.879,
+      "y": 3.37,
+      "z": 3.466
+    },
+    "bytes": 85924
+  },
+  {
+    "id": "cherry",
+    "category": "nature",
+    "path": "assets/nature/cherry.glb",
+    "dimensions_m": {
+      "x": 3.974,
+      "y": 3.42,
+      "z": 3.666
+    },
+    "bytes": 85940
+  },
+  {
+    "id": "apple_tree",
+    "category": "nature",
+    "path": "assets/nature/apple_tree.glb",
+    "dimensions_m": {
+      "x": 3.023,
+      "y": 3.47,
+      "z": 3.166
+    },
+    "bytes": 145764
+  },
+  {
+    "id": "dead_tree",
+    "category": "nature",
+    "path": "assets/nature/dead_tree.glb",
+    "dimensions_m": {
+      "x": 1.88,
+      "y": 2.857,
+      "z": 1.876
+    },
+    "bytes": 25872
+  },
+  {
+    "id": "pine",
+    "category": "nature",
+    "path": "assets/nature/pine.glb",
+    "dimensions_m": {
+      "x": 2.167,
+      "y": 3.735,
+      "z": 2.134
+    },
+    "bytes": 11908
+  },
+  {
+    "id": "fir",
+    "category": "nature",
+    "path": "assets/nature/fir.glb",
+    "dimensions_m": {
+      "x": 2.265,
+      "y": 3.625,
+      "z": 2.231
+    },
+    "bytes": 15640
+  },
+  {
+    "id": "cypress",
+    "category": "nature",
+    "path": "assets/nature/cypress.glb",
+    "dimensions_m": {
+      "x": 1.236,
+      "y": 3.8,
+      "z": 1.3
+    },
+    "bytes": 13016
+  },
+  {
+    "id": "palm",
+    "category": "nature",
+    "path": "assets/nature/palm.glb",
+    "dimensions_m": {
+      "x": 3.421,
+      "y": 3.249,
+      "z": 3.474
+    },
+    "bytes": 78480
+  },
+  {
+    "id": "bush",
+    "category": "nature",
+    "path": "assets/nature/bush.glb",
+    "dimensions_m": {
+      "x": 1.586,
+      "y": 1.2,
+      "z": 1.528
+    },
+    "bytes": 60232
+  },
+  {
+    "id": "flower_bush",
+    "category": "nature",
+    "path": "assets/nature/flower_bush.glb",
+    "dimensions_m": {
+      "x": 1.586,
+      "y": 1.2,
+      "z": 1.528
+    },
+    "bytes": 79700
+  },
+  {
+    "id": "hedge",
+    "category": "nature",
+    "path": "assets/nature/hedge.glb",
+    "dimensions_m": {
+      "x": 2.0,
+      "y": 1.3,
+      "z": 0.65
+    },
+    "bytes": 2072
+  },
+  {
+    "id": "topiary",
+    "category": "nature",
+    "path": "assets/nature/topiary.glb",
+    "dimensions_m": {
+      "x": 1.046,
+      "y": 2.05,
+      "z": 1.1
+    },
+    "bytes": 34656
+  },
+  {
+    "id": "boulder",
+    "category": "nature",
+    "path": "assets/nature/boulder.glb",
+    "dimensions_m": {
+      "x": 1.522,
+      "y": 1.12,
+      "z": 1.28
+    },
+    "bytes": 9472
+  },
+  {
+    "id": "rock_cluster",
+    "category": "nature",
+    "path": "assets/nature/rock_cluster.glb",
+    "dimensions_m": {
+      "x": 1.547,
+      "y": 0.569,
+      "z": 1.031
+    },
+    "bytes": 43408
+  },
+  {
+    "id": "pebbles",
+    "category": "nature",
+    "path": "assets/nature/pebbles.glb",
+    "dimensions_m": {
+      "x": 1.808,
+      "y": 0.62,
+      "z": 1.296
+    },
+    "bytes": 77260
+  },
+  {
+    "id": "stump",
+    "category": "nature",
+    "path": "assets/nature/stump.glb",
+    "dimensions_m": {
+      "x": 1.136,
+      "y": 0.667,
+      "z": 1.195
+    },
+    "bytes": 22744
+  },
+  {
+    "id": "log",
+    "category": "nature",
+    "path": "assets/nature/log.glb",
+    "dimensions_m": {
+      "x": 2.02,
+      "y": 0.656,
+      "z": 0.662
+    },
+    "bytes": 10224
+  },
+  {
+    "id": "flower_patch",
+    "category": "nature",
+    "path": "assets/nature/flower_patch.glb",
+    "dimensions_m": {
+      "x": 1.367,
+      "y": 0.583,
+      "z": 0.893
+    },
+    "bytes": 234676
+  },
+  {
+    "id": "grass_clump",
+    "category": "nature",
+    "path": "assets/nature/grass_clump.glb",
+    "dimensions_m": {
+      "x": 0.923,
+      "y": 0.599,
+      "z": 0.938
+    },
+    "bytes": 57632
+  }
+]
