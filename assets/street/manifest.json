@@ -1,0 +1,222 @@
+[
+  {
+    "id": "bench",
+    "category": "street",
+    "path": "assets/street/bench.glb",
+    "dimensions_m": {
+      "x": 1.8,
+      "y": 0.525,
+      "z": 0.528
+    },
+    "bytes": 19424
+  },
+  {
+    "id": "park_bench",
+    "category": "street",
+    "path": "assets/street/park_bench.glb",
+    "dimensions_m": {
+      "x": 1.8,
+      "y": 1.052,
+      "z": 0.599
+    },
+    "bytes": 28724
+  },
+  {
+    "id": "picnic_table",
+    "category": "street",
+    "path": "assets/street/picnic_table.glb",
+    "dimensions_m": {
+      "x": 1.8,
+      "y": 0.871,
+      "z": 1.8
+    },
+    "bytes": 28508
+  },
+  {
+    "id": "trash_bin",
+    "category": "street",
+    "path": "assets/street/trash_bin.glb",
+    "dimensions_m": {
+      "x": 0.68,
+      "y": 0.985,
+      "z": 0.68
+    },
+    "bytes": 8968
+  },
+  {
+    "id": "recycling_bin",
+    "category": "street",
+    "path": "assets/street/recycling_bin.glb",
+    "dimensions_m": {
+      "x": 0.68,
+      "y": 0.985,
+      "z": 0.68
+    },
+    "bytes": 24516
+  },
+  {
+    "id": "street_lamp",
+    "category": "street",
+    "path": "assets/street/street_lamp.glb",
+    "dimensions_m": {
+      "x": 1.105,
+      "y": 3.66,
+      "z": 0.36
+    },
+    "bytes": 13372
+  },
+  {
+    "id": "lantern_lamp",
+    "category": "street",
+    "path": "assets/street/lantern_lamp.glb",
+    "dimensions_m": {
+      "x": 0.7,
+      "y": 3.145,
+      "z": 0.7
+    },
+    "bytes": 13236
+  },
+  {
+    "id": "traffic_light",
+    "category": "street",
+    "path": "assets/street/traffic_light.glb",
+    "dimensions_m": {
+      "x": 0.35,
+      "y": 3.025,
+      "z": 0.252
+    },
+    "bytes": 20856
+  },
+  {
+    "id": "hydrant",
+    "category": "street",
+    "path": "assets/street/hydrant.glb",
+    "dimensions_m": {
+      "x": 0.54,
+      "y": 0.92,
+      "z": 0.4
+    },
+    "bytes": 19156
+  },
+  {
+    "id": "post_box",
+    "category": "street",
+    "path": "assets/street/post_box.glb",
+    "dimensions_m": {
+      "x": 0.55,
+      "y": 1.3,
+      "z": 0.44
+    },
+    "bytes": 49732
+  },
+  {
+    "id": "traffic_cone",
+    "category": "street",
+    "path": "assets/street/traffic_cone.glb",
+    "dimensions_m": {
+      "x": 0.42,
+      "y": 0.68,
+      "z": 0.42
+    },
+    "bytes": 10572
+  },
+  {
+    "id": "road_barrier",
+    "category": "street",
+    "path": "assets/street/road_barrier.glb",
+    "dimensions_m": {
+      "x": 1.9,
+      "y": 0.85,
+      "z": 0.6
+    },
+    "bytes": 14600
+  },
+  {
+    "id": "bike_rack",
+    "category": "street",
+    "path": "assets/street/bike_rack.glb",
+    "dimensions_m": {
+      "x": 1.57,
+      "y": 0.735,
+      "z": 0.67
+    },
+    "bytes": 28608
+  },
+  {
+    "id": "drinking_fountain",
+    "category": "street",
+    "path": "assets/street/drinking_fountain.glb",
+    "dimensions_m": {
+      "x": 0.6,
+      "y": 1.07,
+      "z": 0.6
+    },
+    "bytes": 10168
+  },
+  {
+    "id": "fountain",
+    "category": "street",
+    "path": "assets/street/fountain.glb",
+    "dimensions_m": {
+      "x": 2.6,
+      "y": 1.6,
+      "z": 2.6
+    },
+    "bytes": 39000
+  },
+  {
+    "id": "utility_box",
+    "category": "street",
+    "path": "assets/street/utility_box.glb",
+    "dimensions_m": {
+      "x": 0.8,
+      "y": 1.4,
+      "z": 0.48
+    },
+    "bytes": 12852
+  },
+  {
+    "id": "vending_machine",
+    "category": "street",
+    "path": "assets/street/vending_machine.glb",
+    "dimensions_m": {
+      "x": 0.9,
+      "y": 1.8,
+      "z": 0.74
+    },
+    "bytes": 35628
+  },
+  {
+    "id": "manhole",
+    "category": "street",
+    "path": "assets/street/manhole.glb",
+    "dimensions_m": {
+      "x": 0.9,
+      "y": 0.059,
+      "z": 0.9
+    },
+    "bytes": 19096
+  },
+  {
+    "id": "tree_guard",
+    "category": "street",
+    "path": "assets/street/tree_guard.glb",
+    "dimensions_m": {
+      "x": 0.95,
+      "y": 1.0,
+      "z": 0.95
+    },
+    "bytes": 66320
+  },
+  {
+    "id": "sandbox",
+    "category": "street",
+    "path": "assets/street/sandbox.glb",
+    "dimensions_m": {
+      "x": 2.2,
+      "y": 0.3,
+      "z": 2.2
+    },
+    "bytes": 8136
+  }
+]
