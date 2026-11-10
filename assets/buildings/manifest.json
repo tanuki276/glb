@@ -1,0 +1,222 @@
+[
+  {
+    "id": "cottage",
+    "category": "buildings",
+    "path": "assets/buildings/cottage.glb",
+    "dimensions_m": {
+      "x": 4.3,
+      "y": 3.89,
+      "z": 3.3
+    },
+    "bytes": 28196
+  },
+  {
+    "id": "cabin",
+    "category": "buildings",
+    "path": "assets/buildings/cabin.glb",
+    "dimensions_m": {
+      "x": 3.3,
+      "y": 3.3,
+      "z": 3.3
+    },
+    "bytes": 28180
+  },
+  {
+    "id": "townhouse",
+    "category": "buildings",
+    "path": "assets/buildings/townhouse.glb",
+    "dimensions_m": {
+      "x": 3.3,
+      "y": 5.9,
+      "z": 3.3
+    },
+    "bytes": 40388
+  },
+  {
+    "id": "apartment",
+    "category": "buildings",
+    "path": "assets/buildings/apartment.glb",
+    "dimensions_m": {
+      "x": 5.3,
+      "y": 11.4,
+      "z": 3.835
+    },
+    "bytes": 92756
+  },
+  {
+    "id": "office",
+    "category": "buildings",
+    "path": "assets/buildings/office.glb",
+    "dimensions_m": {
+      "x": 5.3,
+      "y": 14.2,
+      "z": 3.835
+    },
+    "bytes": 111804
+  },
+  {
+    "id": "corner_shop",
+    "category": "buildings",
+    "path": "assets/buildings/corner_shop.glb",
+    "dimensions_m": {
+      "x": 4.2,
+      "y": 3.2,
+      "z": 4.0
+    },
+    "bytes": 79268
+  },
+  {
+    "id": "bakery",
+    "category": "buildings",
+    "path": "assets/buildings/bakery.glb",
+    "dimensions_m": {
+      "x": 4.2,
+      "y": 3.2,
+      "z": 4.0
+    },
+    "bytes": 72912
+  },
+  {
+    "id": "coffee_shop",
+    "category": "buildings",
+    "path": "assets/buildings/coffee_shop.glb",
+    "dimensions_m": {
+      "x": 4.2,
+      "y": 3.2,
+      "z": 4.0
+    },
+    "bytes": 55836
+  },
+  {
+    "id": "garage",
+    "category": "buildings",
+    "path": "assets/buildings/garage.glb",
+    "dimensions_m": {
+      "x": 3.8,
+      "y": 3.84,
+      "z": 4.3
+    },
+    "bytes": 17052
+  },
+  {
+    "id": "garden_shed",
+    "category": "buildings",
+    "path": "assets/buildings/garden_shed.glb",
+    "dimensions_m": {
+      "x": 2.3,
+      "y": 2.89,
+      "z": 2.3
+    },
+    "bytes": 13952
+  },
+  {
+    "id": "warehouse",
+    "category": "buildings",
+    "path": "assets/buildings/warehouse.glb",
+    "dimensions_m": {
+      "x": 7.3,
+      "y": 6.19,
+      "z": 5.3
+    },
+    "bytes": 16992
+  },
+  {
+    "id": "barn",
+    "category": "buildings",
+    "path": "assets/buildings/barn.glb",
+    "dimensions_m": {
+      "x": 5.3,
+      "y": 5.09,
+      "z": 6.32
+    },
+    "bytes": 11832
+  },
+  {
+    "id": "greenhouse",
+    "category": "buildings",
+    "path": "assets/buildings/greenhouse.glb",
+    "dimensions_m": {
+      "x": 3.11,
+      "y": 2.93,
+      "z": 4.175
+    },
+    "bytes": 94816
+  },
+  {
+    "id": "chapel",
+    "category": "buildings",
+    "path": "assets/buildings/chapel.glb",
+    "dimensions_m": {
+      "x": 3.3,
+      "y": 7.2,
+      "z": 5.3
+    },
+    "bytes": 46908
+  },
+  {
+    "id": "lighthouse",
+    "category": "buildings",
+    "path": "assets/buildings/lighthouse.glb",
+    "dimensions_m": {
+      "x": 2.0,
+      "y": 7.25,
+      "z": 2.1
+    },
+    "bytes": 36620
+  },
+  {
+    "id": "water_tower",
+    "category": "buildings",
+    "path": "assets/buildings/water_tower.glb",
+    "dimensions_m": {
+      "x": 2.8,
+      "y": 5.659,
+      "z": 2.8
+    },
+    "bytes": 35892
+  },
+  {
+    "id": "kiosk",
+    "category": "buildings",
+    "path": "assets/buildings/kiosk.glb",
+    "dimensions_m": {
+      "x": 2.4,
+      "y": 2.82,
+      "z": 2.45
+    },
+    "bytes": 44956
+  },
+  {
+    "id": "public_toilet",
+    "category": "buildings",
+    "path": "assets/buildings/public_toilet.glb",
+    "dimensions_m": {
+      "x": 3.8,
+      "y": 2.925,
+      "z": 2.8
+    },
+    "bytes": 57652
+  },
+  {
+    "id": "bus_station",
+    "category": "buildings",
+    "path": "assets/buildings/bus_station.glb",
+    "dimensions_m": {
+      "x": 6.4,
+      "y": 3.125,
+      "z": 2.832
+    },
+    "bytes": 99776
+  },
+  {
+    "id": "recycling_shelter",
+    "category": "buildings",
+    "path": "assets/buildings/recycling_shelter.glb",
+    "dimensions_m": {
+      "x": 3.4,
+      "y": 3.42,
+      "z": 2.0
+    },
+    "bytes": 17764
+  }
+]
