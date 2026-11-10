@@ -1,0 +1,222 @@
+[
+  {
+    "id": "sedan",
+    "category": "transport",
+    "path": "assets/transport/sedan.glb",
+    "dimensions_m": {
+      "x": 1.648,
+      "y": 1.375,
+      "z": 3.53
+    },
+    "bytes": 59424
+  },
+  {
+    "id": "hatchback",
+    "category": "transport",
+    "path": "assets/transport/hatchback.glb",
+    "dimensions_m": {
+      "x": 1.648,
+      "y": 1.42,
+      "z": 3.53
+    },
+    "bytes": 59544
+  },
+  {
+    "id": "taxi",
+    "category": "transport",
+    "path": "assets/transport/taxi.glb",
+    "dimensions_m": {
+      "x": 1.648,
+      "y": 1.565,
+      "z": 3.53
+    },
+    "bytes": 67500
+  },
+  {
+    "id": "police_car",
+    "category": "transport",
+    "path": "assets/transport/police_car.glb",
+    "dimensions_m": {
+      "x": 1.648,
+      "y": 1.63,
+      "z": 3.53
+    },
+    "bytes": 70540
+  },
+  {
+    "id": "van",
+    "category": "transport",
+    "path": "assets/transport/van.glb",
+    "dimensions_m": {
+      "x": 1.798,
+      "y": 1.9,
+      "z": 3.635
+    },
+    "bytes": 51472
+  },
+  {
+    "id": "ambulance",
+    "category": "transport",
+    "path": "assets/transport/ambulance.glb",
+    "dimensions_m": {
+      "x": 1.798,
+      "y": 1.9,
+      "z": 3.635
+    },
+    "bytes": 56020
+  },
+  {
+    "id": "delivery_truck",
+    "category": "transport",
+    "path": "assets/transport/delivery_truck.glb",
+    "dimensions_m": {
+      "x": 1.798,
+      "y": 2.05,
+      "z": 3.635
+    },
+    "bytes": 48456
+  },
+  {
+    "id": "pickup",
+    "category": "transport",
+    "path": "assets/transport/pickup.glb",
+    "dimensions_m": {
+      "x": 1.798,
+      "y": 1.625,
+      "z": 3.635
+    },
+    "bytes": 53084
+  },
+  {
+    "id": "city_bus",
+    "category": "transport",
+    "path": "assets/transport/city_bus.glb",
+    "dimensions_m": {
+      "x": 2.348,
+      "y": 2.07,
+      "z": 6.065
+    },
+    "bytes": 86088
+  },
+  {
+    "id": "school_bus",
+    "category": "transport",
+    "path": "assets/transport/school_bus.glb",
+    "dimensions_m": {
+      "x": 2.348,
+      "y": 2.07,
+      "z": 6.065
+    },
+    "bytes": 133456
+  },
+  {
+    "id": "fire_truck",
+    "category": "transport",
+    "path": "assets/transport/fire_truck.glb",
+    "dimensions_m": {
+      "x": 2.148,
+      "y": 2.31,
+      "z": 4.8
+    },
+    "bytes": 77552
+  },
+  {
+    "id": "bicycle",
+    "category": "transport",
+    "path": "assets/transport/bicycle.glb",
+    "dimensions_m": {
+      "x": 0.6,
+      "y": 1.07,
+      "z": 1.93
+    },
+    "bytes": 121936
+  },
+  {
+    "id": "motorcycle",
+    "category": "transport",
+    "path": "assets/transport/motorcycle.glb",
+    "dimensions_m": {
+      "x": 0.6,
+      "y": 1.115,
+      "z": 1.88
+    },
+    "bytes": 70564
+  },
+  {
+    "id": "scooter",
+    "category": "transport",
+    "path": "assets/transport/scooter.glb",
+    "dimensions_m": {
+      "x": 0.6,
+      "y": 1.215,
+      "z": 1.88
+    },
+    "bytes": 44172
+  },
+  {
+    "id": "forklift",
+    "category": "transport",
+    "path": "assets/transport/forklift.glb",
+    "dimensions_m": {
+      "x": 1.248,
+      "y": 2.2,
+      "z": 2.95
+    },
+    "bytes": 54704
+  },
+  {
+    "id": "tractor",
+    "category": "transport",
+    "path": "assets/transport/tractor.glb",
+    "dimensions_m": {
+      "x": 1.6,
+      "y": 1.85,
+      "z": 2.2
+    },
+    "bytes": 59988
+  },
+  {
+    "id": "handcart",
+    "category": "transport",
+    "path": "assets/transport/handcart.glb",
+    "dimensions_m": {
+      "x": 0.798,
+      "y": 1.03,
+      "z": 0.845
+    },
+    "bytes": 47236
+  },
+  {
+    "id": "shopping_cart",
+    "category": "transport",
+    "path": "assets/transport/shopping_cart.glb",
+    "dimensions_m": {
+      "x": 0.798,
+      "y": 0.925,
+      "z": 0.94
+    },
+    "bytes": 128524
+  },
+  {
+    "id": "stroller",
+    "category": "transport",
+    "path": "assets/transport/stroller.glb",
+    "dimensions_m": {
+      "x": 0.84,
+      "y": 1.04,
+      "z": 1.04
+    },
+    "bytes": 53648
+  },
+  {
+    "id": "cargo_trailer",
+    "category": "transport",
+    "path": "assets/transport/cargo_trailer.glb",
+    "dimensions_m": {
+      "x": 1.52,
+      "y": 1.05,
+      "z": 2.655
+    },
+    "bytes": 25012
+  }
+]
